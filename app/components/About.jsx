@@ -22,7 +22,7 @@ var About = (props) => {
         online-course</a> on Udemy!
       </p>
       <p>
-        By the way, hallo Julia :)
+        By the way, hallo Pk :)
       </p>
       <p className="show-for-medium">
         This paragraph vanishes on small screens! Try to smaller your window.
